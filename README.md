@@ -1,10 +1,8 @@
 # Brand-Shop
 
-## [ Live Link for Client Side](https://brand-shop-client-79297.web.app)
-Click here for the Live Link for Client Side: [https://brand-shop-client-79297.web.app](https://brand-shop-client-79297.web.app)
 
-# Questions
-## _Q1. Add at least 5 Project features & functionalities_
+
+## Description about project
 Ans: This project has got the following features- 
 
 - This project is all about Brand-Shop. The MainLayout of this website consits of fixed Navbar component which consists of 1 no. of Logo component & 4 nos. of Navlink components namely, (i) Home, (ii) Add Product, (iii) My Cart, (iv) LOGIN.
